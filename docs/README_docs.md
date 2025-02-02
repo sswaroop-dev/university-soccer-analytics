@@ -1,6 +1,6 @@
 # Database Documentation
 
-This directory contains the database design documentation for the TTS University Soccer Analysis project.
+This directory contains the database design documentation for the University Soccer Analysis project.
 
 ## Files
 
