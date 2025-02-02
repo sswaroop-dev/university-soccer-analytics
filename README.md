@@ -26,6 +26,7 @@ Our project focuses on four critical performance analysis domains:
 
 ## 📂 Project Structure
 
+```
 university-soccer-analytics/
 │-- data/
 │   ├── matches.csv             # Raw match data
@@ -44,6 +45,7 @@ university-soccer-analytics/
 ├── CONTRIBUTING.md
 ├── LICENSE
 └── README.md
+```
 
 ## 🚀 Getting Started
 
