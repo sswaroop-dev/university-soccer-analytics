@@ -4,7 +4,7 @@ This directory contains the database design documentation for the University Soc
 
 ## Files
 
-### 1. TTS_University_Soccer_Analysis_ERD.png
+### 1. erd.png
 Entity Relationship Diagram showing:
 - Entities: Season, Match, Performance, Opponent, Statistics, and Play
 - Relationships between entities
