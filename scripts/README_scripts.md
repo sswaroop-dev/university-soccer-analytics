@@ -1,6 +1,6 @@
 # SQL Scripts Documentation
 
-This directory contains SQL scripts for creating and managing a sports team statistics database.
+This directory contains SQL scripts for creating and managing the university soccer team's statistics database.
 
 ## Files
 
