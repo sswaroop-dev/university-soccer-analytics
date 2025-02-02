@@ -26,16 +26,14 @@ Our project focuses on four critical performance analysis domains:
 
 ## 📂 Project Structure
 
-Soccer-Performance-Analytics/
+/
 ├── data/
-│   ├── README_data.md
 │   ├── matches.csv
 │   └── season_performance.csv
 ├── docs/
-│   ├── README_docs.md
-│   ├── business_rules.md
-│   ├── erd.png
-│   └── relational_schema.md
+│   ├── ERD.png
+│   ├── relational_schema.md
+│   └── business_rules.md
 ├── sql_scripts/
 │   ├── create_tables.sql
 │   ├── insert_data.sql
