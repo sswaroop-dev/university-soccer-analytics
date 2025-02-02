@@ -26,18 +26,21 @@ Our project focuses on four critical performance analysis domains:
 
 ## 📂 Project Structure
 
-/
-├── data/
-│   ├── matches.csv
-│   └── season_performance.csv
-├── docs/
-│   ├── ERD.png
-│   ├── relational_schema.md
-│   └── business_rules.md
-├── sql_scripts/
-│   ├── create_tables.sql
-│   ├── insert_data.sql
-│   └── stats_views.sql
+university-soccer-analytics/
+│-- data/
+│   ├── matches.csv             # Raw match data
+│   └── season_performance.csv  # Aggregated season performance
+│
+│-- docs/
+│   ├── ERD.png                     # Entity-Relationship Diagram
+│   ├── realtional_schema.md        # Database schema documentation
+│   └── business_rules.md           # Project business logic
+│
+│-- sql_scripts/
+│   ├── create_tables.sql    # Database schema creation
+│   ├── insert_data.sql      # Data population scripts
+│   └── stats_views.sql      # Advanced analytical views
+│
 ├── CONTRIBUTING.md
 ├── LICENSE
 └── README.md
