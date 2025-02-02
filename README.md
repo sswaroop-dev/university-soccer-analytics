@@ -34,7 +34,7 @@ university-soccer-analytics/
 │
 │-- docs/
 │   ├── ERD.png                     # Entity-Relationship Diagram
-│   ├── realtional_schema.md        # Database schema documentation
+│   ├── relational_schema.md        # Database schema documentation
 │   └── business_rules.md           # Project business logic
 │
 │-- sql_scripts/
