@@ -26,7 +26,23 @@ Our project focuses on four critical performance analysis domains:
 
 ## 📂 Project Structure
 
-Soccer-Performance-Analytics/ ├── data/ # Raw data and related documentation │ ├── README_data.md # Documentation for data files │ ├── matches.csv # Match-level data │ └── season_performance.csv # Seasonal performance data ├── docs/ # Documentation and design files │ ├── README_docs.md # Overview of documentation │ ├── business_rules.md # Business rules for the analysis │ ├── erd.png # Entity-Relationship Diagram (ERD) │ └── relational_schema.md # Relational schema details ├── sql_scripts/ # SQL scripts for database setup and analysis │ ├── create_tables.sql # SQL script to create database tables │ ├── insert_data.sql # Sample data insertion script │ └── stats_views.sql # SQL views for analytical queries ├── CONTRIBUTING.md # Contribution guidelines ├── LICENSE # License information └── README.md # Main project documentation
+Soccer-Performance-Analytics/
+├── data/
+│   ├── README_data.md
+│   ├── matches.csv
+│   └── season_performance.csv
+├── docs/
+│   ├── README_docs.md
+│   ├── business_rules.md
+│   ├── erd.png
+│   └── relational_schema.md
+├── sql_scripts/
+│   ├── create_tables.sql
+│   ├── insert_data.sql
+│   └── stats_views.sql
+├── CONTRIBUTING.md
+├── LICENSE
+└── README.md
 
 ## 🚀 Getting Started
 
