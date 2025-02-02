@@ -31,17 +31,18 @@ Soccer-Performance-Analytics/
 │   ├── README_data.md
 │   ├── matches.csv
 │   └── season_performance.csv
-│
 ├── docs/
 │   ├── README_docs.md
 │   ├── business_rules.md
 │   ├── erd.png
 │   └── relational_schema.md
-│
-├── scripts/
-│   ├── CONTRIBUTING.md
-│   ├── LICENSE
-│   └── README.md
+├── sql_scripts/
+│   ├── create_tables.sql
+│   ├── insert_data.sql
+│   └── stats_views.sql
+├── CONTRIBUTING.md
+├── LICENSE
+└── README.md
 
 ## 🚀 Getting Started
 
