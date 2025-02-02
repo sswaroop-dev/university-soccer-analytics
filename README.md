@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project provides a comprehensive data analysis solution for tracking and evaluating the university's soccer team performance over three competitive seasons (2021-2023). By leveraging advanced SQL techniques and detailed performance metrics, we offer deep insights into team dynamics, match strategies, and player contributions.
+This project provides a comprehensive data analysis solution for tracking and evaluating a university soccer team's performance over three competitive seasons (2021-2023). By leveraging advanced SQL techniques and detailed performance metrics, we offer deep insights into team dynamics, match strategies, and player contributions.
 
 ## 🎯 Core Analysis Objectives
 
